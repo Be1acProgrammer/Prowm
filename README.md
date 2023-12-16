@@ -3,4 +3,6 @@
 * clone it
 
 ```bash
-$ git clone https://github.com/
+$ https://github.com/Be1acProgrammer/prowm.git
+```
+

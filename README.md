@@ -1,2 +1,6 @@
-# bwm
-my very nice build of dwm made easy and looks very nice
+# My Very Feature Rich Tiller
+
+* clone it
+
+```bash
+$ git clone https://github.com/
